@@ -1,0 +1,22 @@
+{
+  "name": "quotify_mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "express-useragent": "^1.0.12",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.5",
+    "morgan": "^1.9.1",
+    "shorthash": "0.0.2",
+    "useragent": "^2.3.0",
+    "validator": "^10.11.0"
+  }
+}
